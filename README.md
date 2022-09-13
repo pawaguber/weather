@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.ibb.co/pb6pcF9/weather.png" width="400" alt="Laravel Logo"></p>
+<p align="center"><img src="https://i.ibb.co/pb6pcF9/weather.png" width="800" alt="Laravel Logo"></p>
 
 
 ## About project
